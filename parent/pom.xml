@@ -35,7 +35,7 @@
 	</modules>
 	
 	<properties>
-		<revision>18</revision>
+		<revision>17</revision>
 		<openjfx.version>${revision}</openjfx.version>
 		<osgi.qualifier>${maven.build.timestamp}</osgi.qualifier>
 		<maven.build.timestamp.format>yyyyMMddHHmm</maven.build.timestamp.format>
